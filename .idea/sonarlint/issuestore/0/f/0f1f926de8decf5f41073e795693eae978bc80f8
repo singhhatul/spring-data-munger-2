@@ -1,0 +1,16 @@
+
+}squid:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıüËŞÿÿÿÿÿ8öì½«Á-
+xsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Íç¾8ÊÚÛş¿-
+squid:S1319±"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ü¦ÍÙ8§“À«Á-
+wsquid:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(£è‡Å8¬£Ìû¿-
+}squid:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñğÃòøÿÿÿÿ8§“À«Á-
+Nsquid:EmptyStatementUsageCheck×"Remove this empty statement.(¢Íç¾8§Œ³›À-
+Jsquid:S1168‡"+Return an empty collection instead of null.(¥¹ï8öì½«Á-
+xsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£è‡Å8ıÏÏü¿-
+squid:S1319ù"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ññ8öì½«Á-
+Isquid:S1168h"+Return an empty collection instead of null.(¥¹ï8‹áü¿-
+@squid:S1643à"Use a StringBuilder instead.(õí¡™øÿÿÿÿ8Ú´›À-
+wsquid:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(£è‡Å8†½›ü¿-
+xsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠšÏï8·Æäı¿-
+xsquid:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(—óô‚8öì½«Á-
+Jsquid:S1168„"+Return an empty collection instead of null.(¥¹ï8†½›ü¿-
